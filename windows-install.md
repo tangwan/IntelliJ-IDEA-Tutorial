@@ -1,5 +1,9 @@
 # Windows 系统下安装 IntelliJ IDEA
 
+## 更新记录
+
+- 2016-12：IntelliJ IDEA 2016.3 版本出来之后，Windows 的安装过程增加了一个可以勾选选用 JetBrains 自己开发的一个 JRE 环境，这个建议 64 位系统的用户可以勾选上，按正常理论效果比 Oracle 应该会好。
+
 ## 系统要求
 
 > * 系统支持：Microsoft Windows 8 / 7 / Vista / 2003 / XP（每个系统版本的 32 位和 64 位都可以）
@@ -7,7 +11,7 @@
 > * 内存：最低要求 1 GB，推荐 2 GB 以上
 > * 硬盘：最低要求 2 GB
 > * 显示器：最低要求 1024 X 768 分辨率
-> * 更多信息可以阅读：<https://www.jetbrains.com/idea/download/system_requirements.jsp?os=win>
+> * 更多信息可以阅读：<https://www.jetbrains.com/help/idea/install-and-set-up-intellij-idea.html>
 
 ## 首次安装
 
